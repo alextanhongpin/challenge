@@ -1,5 +1,5 @@
-const path = require('path')
 const fs = require('fs')
+const path = require('path')
 
 function * heapPermutation (arr, size = arr.length, n = arr.length) {
   if (size === 1) {
