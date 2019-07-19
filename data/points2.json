@@ -1,0 +1,17 @@
+[{
+    "id": 0,
+    "start": "x",
+    "end": "y"
+}, {
+    "id": 3,
+    "start": "y",
+    "end": "z"
+}, {
+    "id": 1,
+    "start": "z",
+    "end": "x"
+}, {
+    "id": 2,
+    "start": "y",
+    "end": "z"
+}]
